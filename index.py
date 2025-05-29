@@ -7,3 +7,7 @@ def print_main():
 
 def print_feature2():
     print("This is the feature-2 added newly");
+
+def print_feature1():
+    print("This is the feature-1 added newly");
+
